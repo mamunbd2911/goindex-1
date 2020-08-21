@@ -4,8 +4,8 @@ var authConfig = {
     // "version" : "1.0.7", // Program Version
     "hash" : "18bc8f4", // master OR your HASH, do not leave blank (changes each time you make a commit)
     "theme" : "classic", // material  classic 
-    "client_id": "202264815644.apps.googleusercontent.com", // client_id from rclone config
-    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ", // client_secret from rclone config
+    "client_id": "XXXXXXXXX.apps.googleusercontent.com", // client_id from rclone config
+    "client_secret": "XXXXXXXXXX-XXXXXXXXXX", // client_secret from rclone config
     "refresh_token": "*******", // authorized refresh token from rclone config
     "root": "0AG1O**********k9PVA" // ROOT_FOLDER from rclone config,
   };
